@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+background: url(https://flomaster.club/uploads/posts/2023-01/1674038249_flomaster-club-p-kotik-krasivii-raskraska-oboi-1.jpg);
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+}
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+}
+
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+}
+
+p{
+    color: rgb(158, 28, 28);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+
+a{
+    font-size: 50px;
+    color: brown;
+}
